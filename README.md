@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Attendance Management System
 
 A full-stack attendance platform for admins, teachers, and students built with React, Vite, Tailwind CSS, Node.js, Express, MongoDB, and JWT authentication.
@@ -70,3 +71,6 @@ This starts the Express API and the Vite frontend together from the root workspa
 - The backend is structured with controllers, services, repositories, middleware, and validators.
 - The frontend uses protected routes and role-based dashboards.
 - QR attendance, reports, and notifications are implemented in a production-friendly scaffold that can be extended with real devices and email providers.
+=======
+# online-attendence
+>>>>>>> f39cb7a1d184c916437d1750d7bd63e6fb8b06bc
